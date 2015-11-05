@@ -1,1 +1,8 @@
-{}
+{   "language": "cn",
+    "links" : {
+        "sidebar" : {
+            "饥人谷" : "http://jirengu.com/"
+        }
+    }
+    
+}
