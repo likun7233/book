@@ -53,7 +53,7 @@
 		* [定时器](前端基础/Javascript/定时器.md)
 		* [模块化](前端基础/Javascript/模块化.md)
 		* [Ajax](前端基础/Javascript/ajax.md)
-	* [Jquery](前端基础/Jquery/README.md)
+	* [Jquery2](前端基础/Jquery/README.md)
 		* [选择器](前端基础/Jquery/获取元素.md)
 		* [DOM操作](前端基础/Jquery/DOM操作.md)
 		* [属性&CSS](前端基础/Jquery/属性&CSS.md)
