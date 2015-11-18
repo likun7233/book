@@ -125,6 +125,7 @@
 	* [HTTP专题]()
 	* [jQuery插件编写]()
 * [代码实例](代码实例/README.md)
+	* [util](代码实例/js函数封装.md)
 * [作业测验](作业测验/README.md)
 
 

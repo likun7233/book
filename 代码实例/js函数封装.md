@@ -1,5 +1,7 @@
 ## js函数封装
 
+[代码](http://js.jirengu.com/puq/1/edit?js)
+
 ### 数据类型判断
 
 1. isNumber
@@ -15,6 +17,9 @@
 1. 对象遍历输出
 2. 对象的拷贝
 3. 对象转换为url拼接
+
+[引用类型demo](http://js.jirengu.com/qox/1/edit?js,console)
+
 
 ### 数组操作
 
