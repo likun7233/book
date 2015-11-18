@@ -3,6 +3,5 @@
         "sidebar" : {
             "代码演示" : "http://js.jirengu.com/"
         }
-    },
-    "plugins": ["toggle-chapters"]
+    }
 }
